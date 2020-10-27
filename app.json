@@ -1,0 +1,12 @@
+{
+  "name": "movie-test-app",
+  "displayName": "movie-test-app",
+  "expo": {
+    "name": "movie-test-app",
+    "slug": "movie-test-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
